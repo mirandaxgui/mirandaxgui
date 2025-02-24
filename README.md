@@ -1,4 +1,4 @@
-<h2 align="left">I'm Guilherme Miranda and i'm Java || Typescript || React Developer.<br>Thanks for your visit! 👋!</h2>
+<h2 align="left">I'm Guilherme Miranda and i'm Java || NodeJS || Typescript || React Developer.<br>Thanks for your visit! 👋!</h2>
 
 ###
 
